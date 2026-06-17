@@ -7,6 +7,7 @@ A full-stack Java EE e-commerce platform featuring secure user authentication, d
 
 - [Overview](#overview)
 - [Tech Stack](#tech-stack)
+- [Screenshots](#screenshots)
 - [Project Structure](#project-structure)
 - [Database Schema](#database-schema)
 - [Features](#features)
@@ -35,6 +36,36 @@ ShopNest is a classic Dynamic Web Project built with raw Java Servlets and JSP v
 | JDBC Driver      | `mysql-connector-j-9.7.0.jar`           |
 | IDE / Build      | Eclipse (Dynamic Web Project)           |
 | Password Hashing | SHA-256 via `java.security.MessageDigest` |
+
+---
+
+## Screenshots
+
+### 1. Secure User Registration
+New users can create accounts with secure credential storage and profile information management.
+
+![Secure User Registration](screenshots/register.png)
+
+---
+
+### 2. User Authentication
+Secure login system with session-based authentication and password protection.
+
+![User Authentication](screenshots/login.png)
+
+---
+
+### 3. Dynamic Product Catalog
+Products are dynamically fetched from MySQL and displayed through server-rendered JSP pages.
+
+![Dynamic Product Catalog](screenshots/home.png)
+
+---
+
+### 4. Session-Based Shopping Cart
+Users can add, manage, and review products with cart data maintained through server-side sessions.
+
+![Session-Based Shopping Cart](screenshots/cart.png)
 
 ---
 
