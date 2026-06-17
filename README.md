@@ -44,28 +44,28 @@ ShopNest is a classic Dynamic Web Project built with raw Java Servlets and JSP v
 ### 1. Secure User Registration
 New users can create accounts with secure credential storage and profile information management.
 
-![Secure User Registration](screenshots/register.png)
+![Secure User Registration](screenshots/shopnest/1.png)
 
 ---
 
 ### 2. User Authentication
 Secure login system with session-based authentication and password protection.
 
-![User Authentication](screenshots/login.png)
+![User Authentication](screenshots/shopnest/2.png)
 
 ---
 
 ### 3. Dynamic Product Catalog
 Products are dynamically fetched from MySQL and displayed through server-rendered JSP pages.
 
-![Dynamic Product Catalog](screenshots/home.png)
+![Dynamic Product Catalog](screenshots/shopnest/3.png)
 
 ---
 
 ### 4. Session-Based Shopping Cart
 Users can add, manage, and review products with cart data maintained through server-side sessions.
 
-![Session-Based Shopping Cart](screenshots/cart.png)
+![Session-Based Shopping Cart](screenshots/shopnest/4.png)
 
 ---
 
